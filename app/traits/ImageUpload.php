@@ -2,11 +2,11 @@
 
 namespace App\traits;
 
-use Illuminate\Support\Facades\Request;
+use Illuminate\Http\UploadedFile;
 
 trait ImageUpload
 {
-    public function storageTreatment($image): string
+    public function storageTreatment(UploadedFile $image): string
     {
         $extension = $image->extension();
         $name = md5($image->getClientOriginalName() . strtotime("now")) . "." . $extension;
