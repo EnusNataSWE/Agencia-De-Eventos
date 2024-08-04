@@ -6,7 +6,26 @@ Agencia De Eventos é uma aplicação full stack web.
 
 A aplicação consiste em um sistema de uma agencia de eventos, onde usuários podem criar e participar eventos.
 
-## Tecnologias utilizadas
+# Tecnologias utilizadas
+
+## Front end
+
+* HTML/CSS/JS
+* BLADE
+* BOOTSTRAP
+
+## Back end
+
+* PHP
+* LARAVEL
+
+## Database
+
+* MYSQL
+
+## Como executar o projeto
+
+### Pré requisitos
 
 <table>
     <tr>
@@ -16,14 +35,13 @@ A aplicação consiste em um sistema de uma agencia de eventos, onde usuários p
         <th>MySql</th>
     </tr>
     <tr>
-        <td>8.2.*</td>
-        <td>11.0.*</td>
-        <td>2.7.*</td>
-        <td>10.4.*</td>
+        <td>8.2</td>
+        <td>11.0</td>
+        <td>2.7</td>
+        <td>10.4</td>
     </tr>
 </table>
 
-## Como executar o projeto
 
 1. clonar repositório
 2. entrar na pasta do projeto
