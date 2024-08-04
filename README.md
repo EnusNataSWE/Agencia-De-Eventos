@@ -18,6 +18,7 @@ A aplicação consiste em um sistema de uma agencia de eventos, onde usuários p
 
 * PHP
 * LARAVEL
+* ELOQUENT
 
 ## Database
 
