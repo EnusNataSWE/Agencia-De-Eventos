@@ -9,33 +9,35 @@ Agencia De Eventos é uma aplicação full stack web. A aplicação consiste em 
 
 # Funcionalidades
 
-## criar evento
+## Criar e Editar Eventos
 
 ![event create](https://github.com/user-attachments/assets/5f528e79-9894-419e-92c1-5c7be88b9cf4)
 
-## editar evento
-
 ![event edit](https://github.com/user-attachments/assets/0760674a-5e66-4add-a85b-665eaf210f8c)
 
-## ver evento
+## Ver, Participar e Sair de qualquer evento criado por outros usuários
 
 ![event show](https://github.com/user-attachments/assets/1e1b36de-67ef-4531-b41f-53f317d3135c)
 
-## ver meus eventos 
+## Ver todos os eventos de que o usuário é dono ou participa 
 
 ![dashboard](https://github.com/user-attachments/assets/d7da485c-d9a4-4138-a398-76ebb9483ac0)
 
-## busca
+## Buscar evento específico no banco de dados
 
 ![find exact event](https://github.com/user-attachments/assets/a1ad6ff3-726f-4b41-aa58-58106433215d)
 
-## validações dos campos
+# O projeto conta ainda com :
 
-![validation 1](https://github.com/user-attachments/assets/f38ec234-a11f-4fad-bb20-53cb715c6387)
-
-## feedback de sucesso ao usuario
+## Feedback de sucesso
 
 ![event create success](https://github.com/user-attachments/assets/4428755a-f45c-4167-a2ca-cb04cd62a78b)
+
+![event delete success](https://github.com/user-attachments/assets/de237fd7-697d-43b0-bee1-0c96d2d54096)
+
+![event participant success](https://github.com/user-attachments/assets/0be676cc-f4a0-4049-8ed1-3aed6985824d)
+
+![leave event success](https://github.com/user-attachments/assets/3a8d39f9-8d8f-470b-85b5-693c4b1f0570)
 
 # Tecnologias utilizadas
 
