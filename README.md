@@ -1,6 +1,6 @@
 # Agencia De Eventos
 
-![index1](https://github.com/user-attachments/assets/f3c53a0b-bcee-4018-a80a-c2158391ae6d)
+![index1](https://github.com/user-attachments/assets/1ab19041-16a5-40e2-9a05-c7bc58f74b77)
 ![index2](https://github.com/user-attachments/assets/a666f5ef-5b5e-4613-b4fb-c30846251967)
 
 # Sobre o projeto
