@@ -13,8 +13,6 @@ Agencia De Eventos é uma aplicação full stack web. A aplicação consiste em 
 
 ![event create](https://github.com/user-attachments/assets/5f528e79-9894-419e-92c1-5c7be88b9cf4)
 
-![event edit](https://github.com/user-attachments/assets/0760674a-5e66-4add-a85b-665eaf210f8c)
-
 ## Ver, Participar e Sair de qualquer evento criado por outros usuários
 
 ![event show](https://github.com/user-attachments/assets/1e1b36de-67ef-4531-b41f-53f317d3135c)
