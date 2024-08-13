@@ -6,7 +6,7 @@
 # Sobre o projeto
 
 Agencia De Eventos é uma aplicação web full stack.
-A aplicação consiste em um sistema de uma agencia de eventos, onde usuários podem criar eventos e participar de eventos criados por outros usuários.
+A aplicação consiste em um sistema de uma agencia de eventos, onde os usuários podem criar eventos e participar de eventos criados por outros usuários.
 
 # Funcionalidades
 
