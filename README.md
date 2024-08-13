@@ -5,7 +5,8 @@
 
 # Sobre o projeto
 
-Agencia De Eventos é uma aplicação full stack web. A aplicação consiste em um sistema de uma agencia de eventos, onde usuários podem criar e participar de eventos.
+Agencia De Eventos é uma aplicação web full stack.
+A aplicação consiste em um sistema de uma agencia de eventos, onde usuários podem criar eventos e participar de eventos criados por outros usuários.
 
 # Funcionalidades
 
@@ -25,9 +26,7 @@ Agencia De Eventos é uma aplicação full stack web. A aplicação consiste em 
 
 ![find exact event](https://github.com/user-attachments/assets/a1ad6ff3-726f-4b41-aa58-58106433215d)
 
-# O projeto conta ainda com :
-
-## Feedback de sucesso
+# O projeto conta ainda com feedback ao usuário
 
 ![event create success](https://github.com/user-attachments/assets/4428755a-f45c-4167-a2ca-cb04cd62a78b)
 
@@ -39,13 +38,13 @@ Agencia De Eventos é uma aplicação full stack web. A aplicação consiste em 
 
 # Tecnologias utilizadas
 
-## Front end
+## Front-end
 
 * HTML/CSS/JS
 * BLADE
 * BOOTSTRAP
 
-## Back end
+## Back-end
 
 * PHP
 * LARAVEL
