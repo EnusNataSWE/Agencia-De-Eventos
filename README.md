@@ -26,7 +26,7 @@ The application consists of an event agency website, where users can create thei
 
 ![find exact event](https://github.com/user-attachments/assets/a1ad6ff3-726f-4b41-aa58-58106433215d)
 
-# The project also provides feedback to the user
+## Provide feedback to the user
 
 ![event participant success](https://github.com/user-attachments/assets/0be676cc-f4a0-4049-8ed1-3aed6985824d)
 
