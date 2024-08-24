@@ -1,42 +1,38 @@
-# Agencia De Eventos
+# Events Agency
 
 ![index1](https://github.com/user-attachments/assets/1ab19041-16a5-40e2-9a05-c7bc58f74b77)
 ![index2](https://github.com/user-attachments/assets/a666f5ef-5b5e-4613-b4fb-c30846251967)
 
-# Sobre o projeto
+# About
 
-Agencia De Eventos é uma aplicação web full stack.
-A aplicação consiste em um sistema de uma agencia de eventos, onde os usuários podem criar eventos e participar de eventos criados por outros usuários.
+Events Agency is a full stack web application.
+The application consists of an event agency website, where users can create their own events and participate in events created by other users.
 
-# Funcionalidades
+# Features
 
-## Criar e Editar Eventos
+## Create and Edit your events 
 
 ![event create](https://github.com/user-attachments/assets/5f528e79-9894-419e-92c1-5c7be88b9cf4)
 
-## Ver, Participar e Sair de qualquer evento criado por outros usuários
+## See, Join and Leave any event created by other users
 
 ![event show](https://github.com/user-attachments/assets/1e1b36de-67ef-4531-b41f-53f317d3135c)
 
-## Ver todos os eventos de que o usuário é dono ou participa 
+## See all events you own or it's participating
 
 ![dashboard](https://github.com/user-attachments/assets/d7da485c-d9a4-4138-a398-76ebb9483ac0)
 
-## Buscar evento específico no banco de dados
+## Search for a event in the database
 
 ![find exact event](https://github.com/user-attachments/assets/a1ad6ff3-726f-4b41-aa58-58106433215d)
 
-# O projeto conta ainda com feedback ao usuário
-
-![event create success](https://github.com/user-attachments/assets/4428755a-f45c-4167-a2ca-cb04cd62a78b)
-
-![event delete success](https://github.com/user-attachments/assets/de237fd7-697d-43b0-bee1-0c96d2d54096)
+# The project also provides feedback to the user
 
 ![event participant success](https://github.com/user-attachments/assets/0be676cc-f4a0-4049-8ed1-3aed6985824d)
 
 ![leave event success](https://github.com/user-attachments/assets/3a8d39f9-8d8f-470b-85b5-693c4b1f0570)
 
-# Tecnologias utilizadas
+# Stack
 
 ## Front-end
 
@@ -54,9 +50,9 @@ A aplicação consiste em um sistema de uma agencia de eventos, onde os usuário
 
 * MYSQL
 
-## Como executar o projeto
+## Running the project
 
-### Pré requisitos
+### Requirements
 
 <table>
     <tr>
@@ -74,16 +70,16 @@ A aplicação consiste em um sistema de uma agencia de eventos, onde os usuário
 </table>
 
 
-1. clonar repositório
-2. entrar na pasta do projeto
-3. executar comando: composer install
-4. executar comando: php artisan key:generate
-5. criar banco de dados Mysql
-6. criar arquivo .env (copiar de .env.example)
-7. configurar as variaveis de ambiente do banco de dados no .env
-8. executar comando: php artisan migrate
-9. executar comando: php artisan serve
+1. clone the repository
+2. get in the project folder
+3. run command: composer install
+4. run command: php artisan key:generate
+5. create database
+6. create .env file (copy from .env.example)
+7. set database environment data in .env
+8. run command: php artisan migrate
+9. run command: php artisan serve
 
-# Autor
+# Author
 
 Enus Natã Da Silva Santos
